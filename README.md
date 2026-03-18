@@ -1,1 +1,1 @@
-This application is designed specifically for iOS (Apple) devices.
+This application is specifically designed for iOS (Apple) devices and is built to function in offline or low-network conditions. It automatically shares the user’s location with pre-saved emergency contacts, ensuring safety and timely assistance even without an active internet connection. When the user clicks the alert option, the application instantly triggers an emergency notification and sends the current location to all saved contacts.
